@@ -11,7 +11,7 @@ Here are some ideas to get you started:
     - [linkedin](www.linkedin.com/in/karan-developer)
     - [github](https://github.com/karan030204)
     - [Twitter](https://twitter.com/DattaniKaran25)
-- ⚡ Fun fact: 
+- ⚡ Fun fact: loves pomerian :dog:, sci-fi fan :tokyo_tower:
 
 ![karan's github stats](https://github-readme-stats.vercel.app/api?username=Karan030204&count_private=true&show_icons=true&theme=gotham&hide_rank=false)
 
