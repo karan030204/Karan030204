@@ -13,7 +13,7 @@ Here are some ideas to get you started:
     - [Twitter](https://twitter.com/DattaniKaran25)
 - ⚡ Fun fact: 
 
-![karan's github stats](https://github-readme-stats.vercel.app/api?username=Karan030204&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)
+![karan's github stats](https://github-readme-stats.vercel.app/api?username=Karan030204&count_private=true&show_icons=true&theme=gotham&hide_rank=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Karan030204&theme=dark)
 
