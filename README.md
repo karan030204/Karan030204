@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan030204&layout=compact)
 
-![IMG-20171114-WA0001](https://user-images.githubusercontent.com/112721868/210100732-f2ffd356-f011-4374-9270-2ca28576bb72.jpg)
 
